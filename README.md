@@ -11,7 +11,7 @@
  <tr>
     <td colspan=2 align=center>
       <a href="https://bit.ly/2l84gRn" target="_blank"><b>**入口地址一**</b></a><br/>
-      <a href="https://bit.ly/2qfalhc" target="_blank"><b>**入口地址二**</b></a><br/>
+      <a href="https://bit.ly/2naLGJQ" target="_blank"><b>**入口地址二**</b></a><br/>
       <a href="http://kb55.0fees.us" target="_blank"><b>**入口地址三**</b></a><br/>
       如链接失效，请换一个浏览器或另一个时段再试！<br/>
       如在“微信”中打开本页，请长按您要打开的链接，在弹出菜单中选“在浏览器打开”。
