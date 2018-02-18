@@ -10,9 +10,9 @@
   </tr>
  <tr>
     <td colspan=2 align=center>
-      <a href="https://bit.ly/2ET5c1H" target="_blank"><b>**入口地址一**</b></a><br/>
+      <a href="https://bit.ly/2BzTXfX" target="_blank"><b>**入口地址一**</b></a><br/>
       <a href="https://bit.ly/2mNOIjU" target="_blank"><b>**入口地址二**</b></a><br/>
-      <a href="http://oncho.epizy.com/" target="_blank"><b>**入口地址三**</b></a><br/>
+      <a href="https://bit.ly/2ET5c1H" target="_blank"><b>**入口地址三**</b></a><br/>
       如链接失效，请换一个浏览器或另一个时段再试！<br/>
       如在“微信”中打开本页，请长按您要打开的链接，在弹出菜单中选“在浏览器打开”。<br/>
       推荐非国产浏览器，如谷歌Chrome或Firefox火狐浏览器。<br/><br/>
