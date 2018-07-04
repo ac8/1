@@ -4,15 +4,15 @@
   </tr>
    <tr>
     <td colspan=2 align=center>
-      请点击下面“入口地址”浏览资讯<br/>
       时事动态，还原真相，热点聚焦，揭密内幕，独立视角，透视人生！<br/>
+      请点击下面任意“入口地址”浏览网页<br/>
     </td>
   </tr>
  <tr>
     <td colspan=2 align=center>
-      <a href="https://bit.ly/2BzTXfX" target="_blank"><b>**入口地址一**</b></a><br/>
-      <a href="https://bit.ly/2mNOIjU" target="_blank"><b>**入口地址二**</b></a><br/>
-      <a href="https://bit.ly/2ET5c1H" target="_blank"><b>**入口地址三**</b></a><br/>
+      <a href="https://bit.ly/2BzTXfX" target="_blank"><b>**入口地址1**</b></a><br/>
+      <a href="https://bit.ly/2mNOIjU" target="_blank"><b>**入口地址2**</b></a><br/>
+      <a href="https://bit.ly/2ET5c1H" target="_blank"><b>**入口地址3**</b></a><br/>
       如链接失效，请换一个浏览器或另一个时段再试！<br/>
       如在“微信”中打开本页，请长按您要打开的链接，在弹出菜单中选“在浏览器打开”。<br/>
       推荐非国产浏览器，如谷歌Chrome或Firefox火狐浏览器。<br/><br/>
