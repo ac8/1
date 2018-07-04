@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td colspan=2 align=center>
-      <a href="https://bit.ly/2BzTXfX" target="_blank"><b>**下载地址一**</b></a><br/>
+      <a href="https://bit.ly/2KEd1if" target="_blank"><b>**下载地址一**</b></a><br/>
       <a href="https://bit.ly/2mBAqB5" target="_blank"><b>**下载地址二**</b></a><br/>
     </td>
   </tr>
