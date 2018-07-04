@@ -5,7 +5,7 @@
    <tr>
     <td colspan=2 align=center>
       <strong>时事动态，还原真相，热点聚焦，揭密内幕，独立视角，透视人生！</strong><br/>
-      <font color=red>请点击下面任意“入口地址”浏览网页</font><br/>
+      请点击下面任意“入口地址”浏览网页<br/>
     </td>
   </tr>
  <tr>
